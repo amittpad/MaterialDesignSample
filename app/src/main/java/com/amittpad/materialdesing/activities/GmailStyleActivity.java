@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.activities;
+package com.amittpad.materialdesing.activities;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -17,9 +17,9 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 
 
-import com.amittpad.onboardingwithviewpager.R;
-import com.amittpad.onboardingwithviewpager.adapter.GmailAdapter;
-import com.amittpad.onboardingwithviewpager.model.VersionModel;
+import com.amittpad.materialdesing.R;
+import com.amittpad.materialdesing.adapter.GmailAdapter;
+import com.amittpad.materialdesing.model.VersionModel;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.activities;
+package com.amittpad.materialdesing.activities;
 
 import android.content.Intent;
 import android.graphics.Color;
@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.amittpad.onboardingwithviewpager.R;
+import com.amittpad.materialdesing.R;
 
 
 public class LaunchScreenActivity extends AppCompatActivity {

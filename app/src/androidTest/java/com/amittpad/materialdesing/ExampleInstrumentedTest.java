@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager;
+package com.amittpad.materialdesing;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

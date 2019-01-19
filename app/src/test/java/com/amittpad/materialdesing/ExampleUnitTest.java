@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager;
+package com.amittpad.materialdesing;
 
 import org.junit.Test;
 

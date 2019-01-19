@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.activities;
+package com.amittpad.materialdesing.activities;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -22,9 +22,9 @@ import android.widget.FrameLayout;
 import android.widget.Toast;
 
 
-import com.amittpad.onboardingwithviewpager.R;
-import com.amittpad.onboardingwithviewpager.adapter.SimpleRecyclerAdapter;
-import com.amittpad.onboardingwithviewpager.model.VersionModel;
+import com.amittpad.materialdesing.R;
+import com.amittpad.materialdesing.adapter.SimpleRecyclerAdapter;
+import com.amittpad.materialdesing.model.VersionModel;
 
 import java.util.ArrayList;
 import java.util.List;

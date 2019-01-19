@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.activities;
+package com.amittpad.materialdesing.activities;
 
 
 import android.animation.Animator;
@@ -12,7 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.LinearLayout;
-import com.amittpad.onboardingwithviewpager.R;
+import com.amittpad.materialdesing.R;
 
 import io.codetail.animation.ViewAnimationUtils;
 import io.codetail.animation.SupportAnimator;

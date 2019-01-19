@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.adapter;
+package com.amittpad.materialdesing.adapter;
 
 import android.content.Context;
 
@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.amittpad.onboardingwithviewpager.R;
+import com.amittpad.materialdesing.R;
 import com.amulyakhare.textdrawable.TextDrawable;
 import com.amulyakhare.textdrawable.util.ColorGenerator;
 

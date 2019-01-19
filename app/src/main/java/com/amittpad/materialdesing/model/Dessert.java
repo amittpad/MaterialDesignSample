@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.model;
+package com.amittpad.materialdesing.model;
 
 import java.util.ArrayList;
 import java.util.List;

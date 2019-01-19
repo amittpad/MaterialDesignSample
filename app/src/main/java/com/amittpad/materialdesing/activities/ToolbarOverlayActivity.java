@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.activities;
+package com.amittpad.materialdesing.activities;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -13,8 +13,8 @@ import android.view.animation.AnimationUtils;
 import android.widget.FrameLayout;
 import android.widget.ImageButton;
 
-import com.amittpad.onboardingwithviewpager.R;
-import com.amittpad.onboardingwithviewpager.utils.Utils;
+import com.amittpad.materialdesing.R;
+import com.amittpad.materialdesing.utils.Utils;
 
 
 public class ToolbarOverlayActivity extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.activities;
+package com.amittpad.materialdesing.activities;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 
 
-import com.amittpad.onboardingwithviewpager.R;
+import com.amittpad.materialdesing.R;
 
 import java.util.ArrayList;
 import java.util.List;

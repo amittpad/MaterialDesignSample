@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.model;
+package com.amittpad.materialdesing.model;
 
 
 public class VersionModel {

@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.activities;
+package com.amittpad.materialdesing.activities;
 
 import android.animation.ArgbEvaluator;
 import android.graphics.Color;
@@ -21,8 +21,8 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.amittpad.onboardingwithviewpager.R;
-import com.amittpad.onboardingwithviewpager.utils.Utils;
+import com.amittpad.materialdesing.R;
+import com.amittpad.materialdesing.utils.Utils;
 
 
 public class PagerActivity extends AppCompatActivity {

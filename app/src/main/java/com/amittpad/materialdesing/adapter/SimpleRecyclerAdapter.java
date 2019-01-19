@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.adapter;
+package com.amittpad.materialdesing.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.CardView;
@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 
-import com.amittpad.onboardingwithviewpager.R;
+import com.amittpad.materialdesing.R;
 
 import java.util.ArrayList;
 import java.util.List;

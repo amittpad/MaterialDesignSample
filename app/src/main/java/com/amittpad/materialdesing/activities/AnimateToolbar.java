@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.activities;
+package com.amittpad.materialdesing.activities;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -15,8 +15,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.amittpad.onboardingwithviewpager.R;
-import com.amittpad.onboardingwithviewpager.adapter.DessertAdapter;
+import com.amittpad.materialdesing.R;
+import com.amittpad.materialdesing.adapter.DessertAdapter;
 
 
 public class AnimateToolbar extends AppCompatActivity {

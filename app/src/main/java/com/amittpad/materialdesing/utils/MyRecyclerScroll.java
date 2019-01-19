@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.utils;
+package com.amittpad.materialdesing.utils;
 
 import android.support.v7.widget.RecyclerView;
 

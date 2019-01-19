@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.activities;
+package com.amittpad.materialdesing.activities;
 
 import android.os.Bundle;
 import android.support.design.widget.Snackbar;
@@ -9,7 +9,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.FrameLayout;
 
-import com.amittpad.onboardingwithviewpager.R;
+import com.amittpad.materialdesing.R;
 
 
 public class NestedToolbarActivity extends AppCompatActivity {

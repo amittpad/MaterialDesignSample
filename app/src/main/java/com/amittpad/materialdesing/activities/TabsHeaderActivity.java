@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.activities;
+package com.amittpad.materialdesing.activities;
 
 import android.annotation.SuppressLint;
 import android.graphics.Bitmap;
@@ -25,8 +25,8 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 
 
-import com.amittpad.onboardingwithviewpager.R;
-import com.amittpad.onboardingwithviewpager.adapter.DessertAdapter;
+import com.amittpad.materialdesing.R;
+import com.amittpad.materialdesing.adapter.DessertAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

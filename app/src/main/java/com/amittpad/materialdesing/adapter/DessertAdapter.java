@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.adapter;
+package com.amittpad.materialdesing.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 
-import com.amittpad.onboardingwithviewpager.R;
-import com.amittpad.onboardingwithviewpager.model.Dessert;
+import com.amittpad.materialdesing.R;
+import com.amittpad.materialdesing.model.Dessert;
 
 import java.util.ArrayList;
 import java.util.List;

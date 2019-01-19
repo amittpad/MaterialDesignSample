@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.activities;
+package com.amittpad.materialdesing.activities;
 
 import android.content.Context;
 import android.content.Intent;
@@ -13,9 +13,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.amittpad.onboardingwithviewpager.R;
-import com.amittpad.onboardingwithviewpager.adapter.SimpleRecyclerAdapter;
-import com.amittpad.onboardingwithviewpager.utils.Utils;
+import com.amittpad.materialdesing.R;
+import com.amittpad.materialdesing.adapter.SimpleRecyclerAdapter;
+import com.amittpad.materialdesing.utils.Utils;
 
 
 public class MainActivity extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.utils;
+package com.amittpad.materialdesing.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -6,7 +6,7 @@ import android.graphics.PorterDuff;
 import android.graphics.drawable.Drawable;
 import android.support.v4.graphics.drawable.DrawableCompat;
 
-import com.amittpad.onboardingwithviewpager.R;
+import com.amittpad.materialdesing.R;
 
 public class Utils {
 

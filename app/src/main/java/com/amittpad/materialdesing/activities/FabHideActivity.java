@@ -1,4 +1,4 @@
-package com.amittpad.onboardingwithviewpager.activities;
+package com.amittpad.materialdesing.activities;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -27,11 +27,11 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
-import com.amittpad.onboardingwithviewpager.R;
-import com.amittpad.onboardingwithviewpager.adapter.SimpleRecyclerAdapter;
-import com.amittpad.onboardingwithviewpager.model.VersionModel;
-import com.amittpad.onboardingwithviewpager.utils.MyRecyclerScroll;
-import com.amittpad.onboardingwithviewpager.utils.Utils;
+import com.amittpad.materialdesing.R;
+import com.amittpad.materialdesing.adapter.SimpleRecyclerAdapter;
+import com.amittpad.materialdesing.model.VersionModel;
+import com.amittpad.materialdesing.utils.MyRecyclerScroll;
+import com.amittpad.materialdesing.utils.Utils;
 
 import java.util.ArrayList;
 import java.util.List;
